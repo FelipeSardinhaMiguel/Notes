@@ -9,6 +9,6 @@ public partial class AboutPage : ContentPage
 
     private void IraoGitBtn_Clicked(object sender, EventArgs e)
     {
-		Launcher.Default.OpenAsync("https://github.com/FelipeSardinhaMiguel");	
+		Launcher.Default.OpenAsync("https://github.com/FelipeSardinhaMiguel/Notes?tab=readme-ov-file");	
     }
 }
